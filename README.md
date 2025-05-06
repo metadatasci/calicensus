@@ -14,3 +14,22 @@ This project provides code, documentation, and workflows for cleaning, transform
 ## 📁 Project Structure (WIP)
 
 
+## 🧰 Tech Stack
+
+**Languages & Tools**
+- **R** – Main language for analysis and modeling
+- **Git & GitHub** – Version control and collaboration
+- **RStudio** – IDE for package development
+
+**R Packages**
+- `tidyverse`, `readr`, `dplyr`, `stringr`, `ggplot2`
+- `sf`, `tigris` – for geospatial data
+- `ggrepel`, `patchwork`, `ggpubr` – for advanced plotting
+- `caret`, `randomForest`, `pROC`, `factoextra`, `tidymodels`
+- `knitr`, `rmarkdown`, `here`, `corrplot`, `reshape2`
+
+**Project Format**
+- R Package structure for reusability
+- Modular scripts and vignettes
+- GitHub-hosted development
+
